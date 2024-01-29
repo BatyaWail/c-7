@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\Documents\!תכנות\שנה ב\C++- הכל\C++הגשות\פרק 7\batyaWail-C++7\batyaWail-C++7\Source.cpp(47,17): warning C4101: 'peopleNumOfFamily': unreferenced local variable
+C:\Users\User\Documents\!תכנות\שנה ב\C++- הכל\C++הגשות\פרק 7\batyaWail-C++7\batyaWail-C++7\Source.cpp(48,23): warning C4101: 'phone': unreferenced local variable
+C:\Users\User\Documents\!תכנות\שנה ב\C++- הכל\C++הגשות\פרק 7\batyaWail-C++7\batyaWail-C++7\Source.cpp(48,7): warning C4101: 'FamilyName': unreferenced local variable
+C:\Users\User\Documents\!תכנות\שנה ב\C++- הכל\C++הגשות\פרק 7\batyaWail-C++7\batyaWail-C++7\Source.cpp(34): warning C4715: 'isTheFamilyExist': not all control paths return a value
+  batyaWail-C++7.vcxproj -> C:\Users\User\Documents\!תכנות\שנה ב\C++- הכל\C++הגשות\פרק 7\batyaWail-C++7\x64\Debug\batyaWail-C++7.exe
